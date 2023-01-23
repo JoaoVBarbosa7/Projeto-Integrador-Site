@@ -13,7 +13,6 @@
 <body>
 
 <header>
-
 <nav>
 <div class="menu-h">
     
@@ -27,11 +26,9 @@
     <li><a href="empresas.php"> EMPRESAS </a></li>
     </ul>
     
-    
 </div>
 </nav>
 </header>
-
 
 <div class="conteudo">
 <h1 id="titulo"> Paliativismo </h1>
